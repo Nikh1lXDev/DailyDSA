@@ -76,9 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/hackernikhil1234/DailyDSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/hackernikhil1234/DailyDSA/tree/master/0189-rotate-array) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/hackernikhil1234/DailyDSA/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/hackernikhil1234/DailyDSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
