@@ -3,36 +3,38 @@ public:
 
     bool possible(vector<int>& piles, int h, int speed)
     {
-        long long hours = 0;
+        long long hour = 0;
 
         for(int pile : piles)
         {
-            hours += (pile + speed - 1) / speed;
+            hour += (pile + speed - 1) / speed;
+
+            if(hour > h)
+                return false;
         }
 
-        return hours <= h;
+        return true;
     }
 
     int minEatingSpeed(vector<int>& piles, int h)
     {
-        int low = 1;
+        long long l = 1;
+        long long r = *max_element(piles.begin(), piles.end());
 
-        int high = *max_element(piles.begin(), piles.end());
+        long long ans = r;
 
-        int ans = high;
-
-        while(low <= high)
+        while(l <= r)
         {
-            int mid = low + (high - low) / 2;
+            long long mid = l + (r - l) / 2;
 
             if(possible(piles, h, mid))
             {
                 ans = mid;
-                high = mid - 1;
+                r = mid - 1;
             }
             else
             {
-                low = mid + 1;
+                l = mid + 1;
             }
         }
 
