@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/hackernikhil1234/DailyDSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/hackernikhil1234/DailyDSA/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hackernikhil1234/DailyDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/hackernikhil1234/DailyDSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/hackernikhil1234/DailyDSA/tree/master/0169-majority-element) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hackernikhil1234/DailyDSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/hackernikhil1234/DailyDSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/hackernikhil1234/DailyDSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/hackernikhil1234/DailyDSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hackernikhil1234/DailyDSA/tree/master/0217-contains-duplicate) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/hackernikhil1234/DailyDSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/hackernikhil1234/DailyDSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hackernikhil1234/DailyDSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hackernikhil1234/DailyDSA/tree/master/0268-missing-number) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hackernikhil1234/DailyDSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/hackernikhil1234/DailyDSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/hackernikhil1234/DailyDSA/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
