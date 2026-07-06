@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0141-linked-list-cycle) |
 | [1034-subarrays-with-k-different-integers](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1034-subarrays-with-k-different-integers) |
 ## Sliding Window
 |  |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0045-jump-game-ii) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
