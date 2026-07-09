@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0045-jump-game-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0085-maximal-rectangle) |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0142-linked-list-cycle-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0039-combination-sum) |
 <!---LeetCode Topics End-->
