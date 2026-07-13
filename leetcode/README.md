@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0142-linked-list-cycle-ii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1034-subarrays-with-k-different-integers) |
@@ -62,10 +63,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0090-subsets-ii) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
