@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0045-jump-game-ii) |
+| [0079-word-search](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0090-subsets-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0085-maximal-rectangle) |
 ## Greedy
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0039-combination-sum) |
+| [0079-word-search](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0079-word-search) |
 | [0090-subsets-ii](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
@@ -74,4 +77,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0079-word-search) |
 <!---LeetCode Topics End-->
