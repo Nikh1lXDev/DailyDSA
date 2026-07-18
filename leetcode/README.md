@@ -88,4 +88,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0079-word-search) |
+| [0110-balanced-binary-tree](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0110-balanced-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
