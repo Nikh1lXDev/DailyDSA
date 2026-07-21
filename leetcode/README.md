@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0085-maximal-rectangle) |
+| [0173-binary-search-tree-iterator](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0173-binary-search-tree-iterator) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -93,8 +94,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0110-balanced-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0173-binary-search-tree-iterator) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0110-balanced-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0173-binary-search-tree-iterator) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0173-binary-search-tree-iterator) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
