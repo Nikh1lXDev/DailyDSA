@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0090-subsets-ii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1034-subarrays-with-k-different-integers) |
+| [1036-rotting-oranges](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0085-maximal-rectangle) |
+| [1036-rotting-oranges](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1036-rotting-oranges) |
 ## Greedy
 |  |
 | ------- |
@@ -122,4 +124,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0653-two-sum-iv-input-is-a-bst) |
+| [1036-rotting-oranges](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
