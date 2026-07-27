@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0110-balanced-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0653-two-sum-iv-input-is-a-bst) |
+| [0744-network-delay-time](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0744-network-delay-time) |
 ## Tree
 |  |
 | ------- |
@@ -124,5 +125,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0653-two-sum-iv-input-is-a-bst) |
+| [0744-network-delay-time](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1036-rotting-oranges) |
+## Graph Theory
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0744-network-delay-time) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0744-network-delay-time) |
 <!---LeetCode Topics End-->
