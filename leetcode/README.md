@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0085-maximal-rectangle) |
+| [1013-fibonacci-number](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1013-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -139,4 +140,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0744-network-delay-time) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
