@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1013-fibonacci-number) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0062-unique-paths) |
 | [1013-fibonacci-number](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1013-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0062-unique-paths) |
 <!---LeetCode Topics End-->
