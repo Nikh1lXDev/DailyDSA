@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0090-subsets-ii) |
+| [0198-house-robber](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0198-house-robber) |
 | [1034-subarrays-with-k-different-integers](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1036-rotting-oranges) |
 ## Hash Table
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0085-maximal-rectangle) |
+| [0198-house-robber](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1013-fibonacci-number) |
 ## Matrix
 |  |
