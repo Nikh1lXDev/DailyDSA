@@ -1,20 +1,26 @@
 class Solution {
 public:
-    int findAns(int idx, vector<int>& nums,vector<int>& dp) {
-        if(idx<0){
-            return 0;
-        }
-        if(dp[idx]!=-1){
-            return dp[idx];
-        }
-        int rob=nums[idx] + findAns(idx - 2 , nums, dp);
-        int notrob=findAns(idx - 1, nums, dp);
+    int rob(vector<int>& nums) {
 
-        return dp[idx]=max(rob, notrob);
-    }
-    int rob(vector<int> & nums){
-        int n=nums.size();
-        vector<int> dp(n+1,-1);
-        return findAns(n - 1, nums,dp);
+        int n = nums.size();
+
+        if(n == 1){
+            return nums[0];
+        }
+
+        vector<int> dp(n, 0);
+
+        dp[0] = nums[0];
+        dp[1] = max(nums[0], nums[1]);
+
+        for(int idx = 2; idx < n; idx++){
+
+            int pick = nums[idx] + dp[idx - 2];
+            int notPick = dp[idx - 1];
+
+            dp[idx] = max(pick, notPick);
+        }
+
+        return dp[n - 1];
     }
 };
