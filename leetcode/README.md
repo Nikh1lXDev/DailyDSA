@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0653-two-sum-iv-input-is-a-bst) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0079-word-search) |
+| [0151-reverse-words-in-a-string](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0344-reverse-string) |
 ## Depth-First Search
 |  |
