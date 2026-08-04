@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0169-majority-element) |
+| [0189-rotate-array](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0189-rotate-array) |
 | [0198-house-robber](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0198-house-robber) |
 | [1034-subarrays-with-k-different-integers](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1036-rotting-oranges) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0189-rotate-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0653-two-sum-iv-input-is-a-bst) |
 ## Backtracking
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0062-unique-paths) |
+| [0189-rotate-array](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1013-fibonacci-number) |
 ## Recursion
 |  |
