@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0090-subsets-ii) |
+| [0169-majority-element](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0169-majority-element) |
 | [0198-house-robber](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0198-house-robber) |
 | [1034-subarrays-with-k-different-integers](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1036-rotting-oranges) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0169-majority-element) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0653-two-sum-iv-input-is-a-bst) |
 | [1034-subarrays-with-k-different-integers](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1034-subarrays-with-k-different-integers) |
 ## Sliding Window
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0169-majority-element) |
 | [1034-subarrays-with-k-different-integers](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1034-subarrays-with-k-different-integers) |
 ## Stack
 |  |
@@ -160,4 +163,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0062-unique-paths) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0169-majority-element) |
 <!---LeetCode Topics End-->
