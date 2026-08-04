@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0169-majority-element) |
 | [0189-rotate-array](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0189-rotate-array) |
 | [0198-house-robber](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0198-house-robber) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0037-sudoku-solver) |
+| [0128-longest-consecutive-sequence](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0169-majority-element) |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0169-majority-element) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
