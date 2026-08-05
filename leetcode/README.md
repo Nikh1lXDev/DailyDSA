@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0169-majority-element) |
 | [0189-rotate-array](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0189-rotate-array) |
 | [0198-house-robber](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0198-house-robber) |
+| [0907-koko-eating-bananas](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0907-koko-eating-bananas) |
 | [1034-subarrays-with-k-different-integers](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1036-rotting-oranges) |
 ## Hash Table
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0173-binary-search-tree-iterator) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0653-two-sum-iv-input-is-a-bst) |
+| [0907-koko-eating-bananas](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0907-koko-eating-bananas) |
 ## Iterator
 |  |
 | ------- |
