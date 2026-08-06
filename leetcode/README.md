@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0128-longest-consecutive-sequence) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0003-longest-substring-without-repeating-characters) |
 | [1034-subarrays-with-k-different-integers](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1034-subarrays-with-k-different-integers) |
 ## Counting
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0151-reverse-words-in-a-string) |
