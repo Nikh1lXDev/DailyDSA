@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0169-majority-element) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0653-two-sum-iv-input-is-a-bst) |
 | [1034-subarrays-with-k-different-integers](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1034-subarrays-with-k-different-integers) |
+| [1904-second-largest-digit-in-a-string](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1904-second-largest-digit-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0344-reverse-string) |
+| [1904-second-largest-digit-in-a-string](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1904-second-largest-digit-in-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
