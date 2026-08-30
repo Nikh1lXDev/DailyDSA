@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0189-rotate-array) |
 | [0198-house-robber](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0200-number-of-islands) |
+| [0268-missing-number](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0268-missing-number) |
 | [0665-non-decreasing-array](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0665-non-decreasing-array) |
 | [0907-koko-eating-bananas](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0907-koko-eating-bananas) |
 | [1034-subarrays-with-k-different-integers](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1034-subarrays-with-k-different-integers) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0653-two-sum-iv-input-is-a-bst) |
 | [1034-subarrays-with-k-different-integers](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1034-subarrays-with-k-different-integers) |
 | [1904-second-largest-digit-in-a-string](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1904-second-largest-digit-in-a-string) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0173-binary-search-tree-iterator) |
+| [0268-missing-number](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0653-two-sum-iv-input-is-a-bst) |
 | [0907-koko-eating-bananas](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0907-koko-eating-bananas) |
 ## Iterator
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0189-rotate-array) |
+| [0268-missing-number](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -197,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0268-missing-number) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
