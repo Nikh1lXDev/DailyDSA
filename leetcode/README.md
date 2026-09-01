@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0085-maximal-rectangle) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0198-house-robber) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0169-majority-element) |
 ## Sorting
 |  |
