@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0496-next-greater-element-i) |
 | [0665-non-decreasing-array](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0665-non-decreasing-array) |
 | [0907-koko-eating-bananas](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0907-koko-eating-bananas) |
 | [1034-subarrays-with-k-different-integers](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1034-subarrays-with-k-different-integers) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0653-two-sum-iv-input-is-a-bst) |
 | [1034-subarrays-with-k-different-integers](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1034-subarrays-with-k-different-integers) |
 | [1904-second-largest-digit-in-a-string](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1904-second-largest-digit-in-a-string) |
@@ -55,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0085-maximal-rectangle) |
 | [0173-binary-search-tree-iterator](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0173-binary-search-tree-iterator) |
+| [0496-next-greater-element-i](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0496-next-greater-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
