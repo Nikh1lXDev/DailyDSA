@@ -1,0 +1,2 @@
+                ans.add(stack.peek());
+
