@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0496-next-greater-element-i) |
 | [0665-non-decreasing-array](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0665-non-decreasing-array) |
 | [0907-koko-eating-bananas](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0907-koko-eating-bananas) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0653-two-sum-iv-input-is-a-bst) |
 ## Backtracking
