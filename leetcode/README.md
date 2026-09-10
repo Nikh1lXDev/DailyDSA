@@ -223,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0200-number-of-islands) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
