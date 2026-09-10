@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0206-reverse-linked-list) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/hackernikhil1234/DailyDSA/tree/master/LeetCode/1013-fibonacci-number) |
 ## Memoization
